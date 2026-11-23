@@ -3,4 +3,3 @@ exports.version = 1
 exports.apiRequired = 1
 exports.frontend_js = 'main.js'
 exports.repo = "hugo529100/hfs-Disk-info-plugin"
-
